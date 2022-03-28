@@ -1,0 +1,9 @@
+dotenv
+express
+promise-mysql
+@babel/cli -D
+@babel/core -D
+@babel/node -D
+@babel/preset-env -D
+morgan -D
+nodemon -D
